@@ -13,4 +13,4 @@
 - prvious_application.csv
 - sample_submission.csv
 
-2. idea of the leaderboard notebooks
+## 2. idea of the leaderboard notebooks
