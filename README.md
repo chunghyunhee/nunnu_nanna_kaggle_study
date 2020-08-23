@@ -8,9 +8,9 @@
 
 |     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
 | --- | :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
-| 2   |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
-| 3   |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
+| 2   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
+| 3   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
@@ -42,7 +42,7 @@
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-- [ ] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+- [x] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 - [ ] [introduction to manual feature engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
 - [ ] [stacking test-sklearn, xgboost, catboost, lightgbm](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
 - [ ] [lightgbm 7th place solution](https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)
