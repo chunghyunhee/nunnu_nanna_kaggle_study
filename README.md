@@ -8,9 +8,9 @@
 
 |     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
 | --- | :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
-| 2   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
-| 3   |  ✔  |  ✔  | ✔ |     |     |     |     |     |     |     |     |     |     |     |
+| 1   |  ✔  |  ✔  | ✔ |  ✔ |     |     |     |     |     |     |     |     |     |     |
+| 2   |  ✔  |  ✔  | ✔ |  ✔|     |     |     |     |     |     |     |     |     |     |
+| 3   |  ✔  |  ✔  | ✔ |  ✔ |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
@@ -51,7 +51,7 @@
 
 ### [1st level. Costa-rican competition](https://www.kaggle.com/c/cost)
 
-- [ ] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+- [x] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 - [ ] [3250feats->532 feats using shap[LB: 0.436]](https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)
 - [ ] [XGBoost](https://www.kaggle.com/skooch/xgboost)
 
